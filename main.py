@@ -76,3 +76,5 @@ def write_to_mongo(dtime, long, lat):
 # entrypoint fcn
 if __name__ == "__main__":
     get_iss_location()
+
+#comment change
